@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628068675487",
+    "project_id": "avatto-deals",
+    "storage_bucket": "avatto-deals.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628068675487:android:89cc7410674e7f67f8d7aa",
+        "android_client_info": {
+          "package_name": "com.avatto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlprx7ZK0m1VjBVAYheoc5fPD0xy0VGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
